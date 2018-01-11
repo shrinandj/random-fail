@@ -1,4 +1,4 @@
-# Project Title
+# random-fail
 
 random-fail is a simple tool for testing random container failures.
 
